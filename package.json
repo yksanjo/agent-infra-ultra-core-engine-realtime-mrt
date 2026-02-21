@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-ultra-core-engine-realtime-mrt",
+  "version": "1.0.0",
+  "description": "Configuration management system",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "ultra-core-engine-realtime-mrt"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-ultra-core-engine-realtime-mrt.git"
+  }
+}
